@@ -12,7 +12,7 @@ OpenAPI spec version: v1
     
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{946BD119-1947-4C7B-8670-DF53B7A3FCEA}</ProjectGuid>
+    <ProjectGuid>{1FEBF764-011A-4706-9B52-27B987E031EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>EcoServerAPI</RootNamespace>

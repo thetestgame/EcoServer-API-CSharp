@@ -81,7 +81,7 @@ OpenAPI spec version: v1
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
       <ProjectReference Include="..\EcoServerAPI\EcoServerAPI.csproj">
-          <Project>{946BD119-1947-4C7B-8670-DF53B7A3FCEA}</Project>
+          <Project>{1FEBF764-011A-4706-9B52-27B987E031EB}</Project>
           <Name>EcoServerAPI</Name>
       </ProjectReference>
   </ItemGroup>
