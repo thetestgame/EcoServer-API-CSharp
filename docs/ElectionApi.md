@@ -1,4 +1,4 @@
-# EcoServer-API.Api.ElectionApi
+# EcoServerAPI.Api.ElectionApi
 
 All URIs are relative to *https://localhost*
 
@@ -29,9 +29,9 @@ Adds a comment to the currently running election, if any.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -104,9 +104,9 @@ void (empty response body)
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -174,9 +174,9 @@ Forces the currently running election to end now, and for the current election w
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -247,9 +247,9 @@ Create a bunch of test elections.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -316,9 +316,9 @@ List comments on the election.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -388,9 +388,9 @@ Returns the elected title with the given id.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -459,9 +459,9 @@ Returns the election with the given id.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -530,9 +530,9 @@ Returns all elected titles and their occupants matching the given state (active 
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -602,9 +602,9 @@ Returns all elections that are either active or inactive.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -676,9 +676,9 @@ Places a vote on behalf of the given player.  Can only be called if an election 
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -749,9 +749,9 @@ Returns a list of votes that were made on the indicated election.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {

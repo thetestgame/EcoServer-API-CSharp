@@ -1,4 +1,4 @@
-# EcoServer-API.Api.AdminApi
+# EcoServerAPI.Api.AdminApi
 
 All URIs are relative to *https://localhost*
 
@@ -21,9 +21,9 @@ Method | HTTP request | Description
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -90,9 +90,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -144,9 +144,9 @@ No authorization required
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -215,9 +215,9 @@ Sets how accessible this server is.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -288,9 +288,9 @@ void (empty response body)
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {

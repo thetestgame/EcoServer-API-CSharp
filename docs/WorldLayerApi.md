@@ -1,4 +1,4 @@
-# EcoServer-API.Api.WorldLayerApi
+# EcoServerAPI.Api.WorldLayerApi
 
 All URIs are relative to *https://localhost*
 
@@ -20,9 +20,9 @@ Describes the area selected with a string.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -98,9 +98,9 @@ Enumerates every world layer in the simulation.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -168,9 +168,9 @@ Enumerates the layers that should be displayed when the user is focused on a par
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -248,9 +248,9 @@ Enumerates the layer relationships that should be displayed when the user is foc
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {

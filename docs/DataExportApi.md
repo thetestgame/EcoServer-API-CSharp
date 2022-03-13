@@ -1,4 +1,4 @@
-# EcoServer-API.Api.DataExportApi
+# EcoServerAPI.Api.DataExportApi
 
 All URIs are relative to *https://localhost*
 
@@ -27,9 +27,9 @@ Method | HTTP request | Description
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -96,9 +96,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -165,9 +165,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -236,9 +236,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -311,9 +311,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -382,9 +382,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -451,9 +451,9 @@ Name | Type | Description  | Notes
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -519,9 +519,9 @@ void (empty response body)
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -587,9 +587,9 @@ void (empty response body)
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -655,9 +655,9 @@ void (empty response body)
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -723,9 +723,9 @@ void (empty response body)
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {

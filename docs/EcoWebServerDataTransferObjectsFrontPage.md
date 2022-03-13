@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsFrontPage
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsFrontPage
 ## Properties
 
 Name | Type | Description | Notes

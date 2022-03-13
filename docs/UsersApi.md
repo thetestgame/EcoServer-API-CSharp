@@ -1,4 +1,4 @@
-# EcoServer-API.Api.UsersApi
+# EcoServerAPI.Api.UsersApi
 
 All URIs are relative to *https://localhost*
 
@@ -17,9 +17,9 @@ Method | HTTP request | Description
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {

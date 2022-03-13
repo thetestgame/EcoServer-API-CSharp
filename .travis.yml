@@ -4,6 +4,6 @@
 language: csharp
 mono:
   - latest
-solution: EcoServer-API.sln
+solution: EcoServerAPI.sln
 script:
   - /bin/sh ./mono_nunit_test.sh

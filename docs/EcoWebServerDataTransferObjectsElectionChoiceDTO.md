@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsElectionChoiceDTO
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsElectionChoiceDTO
 ## Properties
 
 Name | Type | Description | Notes

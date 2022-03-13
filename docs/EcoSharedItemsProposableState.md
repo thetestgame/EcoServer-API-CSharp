@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedItemsProposableState
+# EcoServerAPI.Model.EcoSharedItemsProposableState
 ## Properties
 
 Name | Type | Description | Notes

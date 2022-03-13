@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsVector3DTO
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsVector3DTO
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedStatesServerCategory
+# EcoServerAPI.Model.EcoSharedStatesServerCategory
 ## Properties
 
 Name | Type | Description | Notes

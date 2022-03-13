@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedNetworkingSkillSpecializationSetting
+# EcoServerAPI.Model.EcoSharedNetworkingSkillSpecializationSetting
 ## Properties
 
 Name | Type | Description | Notes

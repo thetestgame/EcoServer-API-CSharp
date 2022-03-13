@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoStatsNamedGraph
+# EcoServerAPI.Model.EcoStatsNamedGraph
 ## Properties
 
 Name | Type | Description | Notes

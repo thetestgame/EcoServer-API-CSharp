@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsCommandResultDTO
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsCommandResultDTO
 ## Properties
 
 Name | Type | Description | Notes

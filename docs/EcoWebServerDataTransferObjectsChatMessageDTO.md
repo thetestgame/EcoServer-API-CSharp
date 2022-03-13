@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsChatMessageDTO
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsChatMessageDTO
 ## Properties
 
 Name | Type | Description | Notes

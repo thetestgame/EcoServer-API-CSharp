@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerWebControllersStatReturn
+# EcoServerAPI.Model.EcoWebServerWebControllersStatReturn
 ## Properties
 
 Name | Type | Description | Notes

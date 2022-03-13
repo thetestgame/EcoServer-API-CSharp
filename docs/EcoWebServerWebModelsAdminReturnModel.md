@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerWebModelsAdminReturnModel
+# EcoServerAPI.Model.EcoWebServerWebModelsAdminReturnModel
 ## Properties
 
 Name | Type | Description | Notes

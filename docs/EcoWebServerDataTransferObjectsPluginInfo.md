@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsPluginInfo
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsPluginInfo
 ## Properties
 
 Name | Type | Description | Notes

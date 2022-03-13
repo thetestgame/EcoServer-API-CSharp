@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerWebModelsAction
+# EcoServerAPI.Model.EcoWebServerWebModelsAction
 ## Properties
 
 Name | Type | Description | Notes

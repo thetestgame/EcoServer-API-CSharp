@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedLocalizationLocString
+# EcoServerAPI.Model.EcoSharedLocalizationLocString
 ## Properties
 
 Name | Type | Description | Notes

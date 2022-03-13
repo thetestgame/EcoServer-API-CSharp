@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoStatsStatInfo
+# EcoServerAPI.Model.EcoStatsStatInfo
 ## Properties
 
 Name | Type | Description | Notes

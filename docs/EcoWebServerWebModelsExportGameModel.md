@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerWebModelsExportGameModel
+# EcoServerAPI.Model.EcoWebServerWebModelsExportGameModel
 ## Properties
 
 Name | Type | Description | Notes

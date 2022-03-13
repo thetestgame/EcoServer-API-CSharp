@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsWorldLayersLayerRelationshipDTO
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsWorldLayersLayerRelationshipDTO
 ## Properties
 
 Name | Type | Description | Notes

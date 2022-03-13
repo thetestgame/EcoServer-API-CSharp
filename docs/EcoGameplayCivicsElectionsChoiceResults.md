@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoGameplayCivicsElectionsChoiceResults
+# EcoServerAPI.Model.EcoGameplayCivicsElectionsChoiceResults
 ## Properties
 
 Name | Type | Description | Notes

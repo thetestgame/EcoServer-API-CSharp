@@ -1,4 +1,4 @@
-# EcoServer-API.Model.SystemNumericsVector3
+# EcoServerAPI.Model.SystemNumericsVector3
 ## Properties
 
 Name | Type | Description | Notes

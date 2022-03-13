@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsMapStats
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsMapStats
 ## Properties
 
 Name | Type | Description | Notes

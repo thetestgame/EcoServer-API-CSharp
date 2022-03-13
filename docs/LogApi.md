@@ -1,4 +1,4 @@
-# EcoServer-API.Api.LogApi
+# EcoServerAPI.Api.LogApi
 
 All URIs are relative to *https://localhost*
 
@@ -19,9 +19,9 @@ Retrieves a list of all log files on the server.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -89,9 +89,9 @@ Retrieves a list of all log files in the requested category subfolder if it exis
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {
@@ -161,9 +161,9 @@ Streams a log file over HTTP/HTTPS to a client.
 ```csharp
 using System;
 using System.Diagnostics;
-using EcoServer-API.Api;
-using EcoServer-API.Client;
-using EcoServer-API.Model;
+using EcoServerAPI.Api;
+using EcoServerAPI.Client;
+using EcoServerAPI.Model;
 
 namespace Example
 {

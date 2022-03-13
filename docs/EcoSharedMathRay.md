@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedMathRay
+# EcoServerAPI.Model.EcoSharedMathRay
 ## Properties
 
 Name | Type | Description | Notes

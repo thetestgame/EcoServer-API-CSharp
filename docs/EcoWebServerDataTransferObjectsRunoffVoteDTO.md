@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoWebServerDataTransferObjectsRunoffVoteDTO
+# EcoServerAPI.Model.EcoWebServerDataTransferObjectsRunoffVoteDTO
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedMathVector2i
+# EcoServerAPI.Model.EcoSharedMathVector2i
 ## Properties
 
 Name | Type | Description | Notes

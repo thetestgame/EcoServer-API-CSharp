@@ -1,4 +1,4 @@
-# EcoServer-API.Model.NewtonsoftJsonLinqJToken
+# EcoServerAPI.Model.NewtonsoftJsonLinqJToken
 ## Properties
 
 Name | Type | Description | Notes

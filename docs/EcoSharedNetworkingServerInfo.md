@@ -1,4 +1,4 @@
-# EcoServer-API.Model.EcoSharedNetworkingServerInfo
+# EcoServerAPI.Model.EcoSharedNetworkingServerInfo
 ## Properties
 
 Name | Type | Description | Notes
